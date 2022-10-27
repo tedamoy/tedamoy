@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tedamoy
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning using Twilioquest.
+- 🌱 I’m currently learning using Udemy.
 - 💞️ I’m currently not looking to collaborate on a project.
 - 📫 I'm not ready to be reached out to.
 
